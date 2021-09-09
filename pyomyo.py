@@ -43,6 +43,8 @@ import struct
 import sys
 import threading
 import time
+import numpy as np
+import pandas as pd
 
 import serial
 from serial.tools.list_ports import comports
