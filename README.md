@@ -1,4 +1,6 @@
 # PyoMyo
+
+# I have added one change here.
 Python module for the Thalmic Labs Myo armband. 
 
 Cross platform and multithreaded and works without the Myo SDK. 
@@ -62,5 +64,5 @@ This data is unrectified but scales from -128 and 127.
 
 Sample data and a comparison between data captured in these modes can be found in [MyoEMGPreprocessing.ipynb](https://github.com/PerlinWarp/Neuro-Breakout/blob/main/Notebooks/MyoModesCompared/MyoEMGPreprocessing.ipynb)
 
-
+# I have added a second change here.
 
