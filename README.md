@@ -1,4 +1,7 @@
 # PyoMyo
+
+#I have made a change here.
+
 Python module for the Thalmic Labs Myo armband. 
 
 Cross platform and multithreaded and works without the Myo SDK. 
