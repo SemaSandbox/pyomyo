@@ -1,6 +1,8 @@
 # PyoMyo
 Python module for the Thalmic Labs Myo armband. 
 
+## Test on Wednesday 10/20/2021
+
 Cross platform and multithreaded and works without the Myo SDK. 
 
 ```
