@@ -1,5 +1,6 @@
 import multiprocessing
 from pyomyo import Myo, emg_mode
+import sys
 
 # ------------ Myo Setup ---------------
 q = multiprocessing.Queue()
