@@ -8,3 +8,6 @@ dist/*
 .env/
 Pipfile
 *.egg-info
+
+#Who cares about updates to the README? Come on!
+README.md
