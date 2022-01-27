@@ -9,5 +9,5 @@ dist/*
 Pipfile
 *.egg-info
 
-#Who cares? Let's just ignore everything!
-*
+#Who cares about updates to the README? Come on!
+README.md
