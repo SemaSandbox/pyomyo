@@ -1,6 +1,8 @@
 # PyoMyo
 Python module for the Thalmic Labs Myo armband. 
 
+## Making a change here to demonstrate how Sema works. 
+
 Cross platform and multithreaded and works without the Myo SDK. 
 
 ```
